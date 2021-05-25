@@ -1,0 +1,1 @@
+{"id":"a7e09d87-48ec-40d0-99f4-060c9ead4284","name":"Wystartowałeś jako pierwszy","triggers":[{"kind":"ACTION","event":"GAME_STARTED","recurrent":false,"parameters":[]}],"criteria":{},"actions":[]}

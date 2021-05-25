@@ -1,0 +1,1 @@
+input("Podaj datę urodzenia (Dzień.Miesiąc.Rok): ")

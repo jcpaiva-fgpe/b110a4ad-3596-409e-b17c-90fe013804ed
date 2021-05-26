@@ -1,1 +1,1 @@
-{"id":"00c0ce4f-1bf6-44aa-b4d3-69831bff78ec","arguments":[],"weight":"2","visible":"true","input":"in1.txt","output":"out2.txt","timeout":"0","feedback":[{"message":"Sprawdź w kodzie czy zliczasz ilość wystąpień litery A w wyrazach.","weight":"0"}]}
+{"id":"00c0ce4f-1bf6-44aa-b4d3-69831bff78ec","arguments":[],"weight":"1","visible":"true","input":"in1.txt","output":"out2.txt","timeout":"0","feedback":[{"message":"Sprawdź w kodzie czy zliczasz ilość wystąpień litery A w wyrazach.","weight":"0"}]}

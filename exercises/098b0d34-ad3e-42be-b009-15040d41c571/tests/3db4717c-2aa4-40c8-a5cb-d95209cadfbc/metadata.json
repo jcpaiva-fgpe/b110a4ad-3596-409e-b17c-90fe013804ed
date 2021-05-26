@@ -1,1 +1,1 @@
-{"id":"3db4717c-2aa4-40c8-a5cb-d95209cadfbc","arguments":[],"weight":"0","visible":true,"input":"in1.txt","output":"out1.txt","timeout":0,"feedback":{}}
+{"id":"3db4717c-2aa4-40c8-a5cb-d95209cadfbc","arguments":[],"weight":"0","visible":"true","input":"in1.txt","output":"out1.txt","timeout":"0","feedback":{}}

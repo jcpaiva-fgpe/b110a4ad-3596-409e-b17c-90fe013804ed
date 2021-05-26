@@ -1,1 +1,1 @@
-{"id":"b7761950-a31a-422f-9bf5-ecadb2fd0288","arguments":[],"weight":"1","visible":true,"input":"in.py","output":"out.py","timeout":0,"feedback":[{"message":"Sprawdź jaki komunikat otrzymasz, jeżeli użytkownik nie wprowadził żadnego znaku.","weight":"0"}]}
+{"id":"b7761950-a31a-422f-9bf5-ecadb2fd0288","arguments":[],"weight":"1","visible":"true","input":"in.py","output":"out.py","timeout":"0","feedback":[{"message":"Sprawdź jaki komunikat otrzymasz, jeżeli użytkownik nie wprowadził żadnego znaku.","weight":"0"}]}

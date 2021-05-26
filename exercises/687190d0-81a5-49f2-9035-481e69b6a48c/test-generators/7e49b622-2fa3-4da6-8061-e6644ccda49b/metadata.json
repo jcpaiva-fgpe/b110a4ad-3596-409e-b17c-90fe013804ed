@@ -1,1 +1,1 @@
-{"id":"7e49b622-2fa3-4da6-8061-e6644ccda49b","pathname":"testgen.py","command_line":"printf $solutions/roywiayanie.py\"\\n10\\n\" | python $file"}
+{"id":"7e49b622-2fa3-4da6-8061-e6644ccda49b","pathname":"testgen.py","command_line":"printf $solutions/rozwiazanie.py\"\\n10\\n\" | python $file"}

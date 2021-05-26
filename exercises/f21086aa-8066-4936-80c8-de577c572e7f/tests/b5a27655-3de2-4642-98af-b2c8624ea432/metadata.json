@@ -1,1 +1,1 @@
-{"id":"b5a27655-3de2-4642-98af-b2c8624ea432","arguments":[],"weight":"1","visible":true,"input":"in1.txt","output":"out1.txt","timeout":0,"feedback":[{"message":"Sprawdź polecenie wyświetlające tekst.","weight":"0"}]}
+{"id":"b5a27655-3de2-4642-98af-b2c8624ea432","arguments":[],"weight":"1","visible":"true","input":"in1.txt","output":"out1.txt","timeout":"0","feedback":[{"message":"Sprawdź polecenie wyświetlające tekst.","weight":"0"},{"message":"Sprawdź instrukcje sprawdzające tekst.","weight":"0"}]}

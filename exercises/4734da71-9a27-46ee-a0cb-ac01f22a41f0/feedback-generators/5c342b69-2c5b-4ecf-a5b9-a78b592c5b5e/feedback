@@ -1,5 +1,0 @@
-# ECHO $FILE 
-print(a, "path")
-get_stud_code = []
-input_has = ['print', 'input', 'if', 'set']
-input_has_hint = ["W kodzie brak polecenia wyświetlającego tekst.", "W kodzie brak polecenia wczytującego tekst.", "W kodzie brak sprawdzania, które wyrazy są w obu napisach.",'']

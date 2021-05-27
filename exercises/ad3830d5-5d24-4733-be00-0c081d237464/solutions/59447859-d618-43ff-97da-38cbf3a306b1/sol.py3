@@ -1,2 +1,2 @@
-a = raw_input()
+a = input()
 print(a)

@@ -1,0 +1,2 @@
+podaj imie: 
+tomek

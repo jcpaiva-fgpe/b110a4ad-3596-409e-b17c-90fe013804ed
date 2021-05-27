@@ -1,1 +1,1 @@
-{"id":"722cda12-0047-4cbd-8bd2-fd886ec30f98","arguments":[],"weight":"2","visible":false,"input":"in.py","output":"out.py","timeout":0,"feedback":[{"message":"Sprawdź czy kodzie uwzględniłeś sprawdzanie, które wyrazy są w obu napisach.","weight":"1"}]}
+{"id":"722cda12-0047-4cbd-8bd2-fd886ec30f98","arguments":[],"weight":"2","visible":"true","input":"in.py","output":"out.py","timeout":"0","feedback":[{"message":"Sprawdź czy kodzie uwzględniłeś sprawdzanie, które wyrazy są w obu napisach.","weight":"1"}]}

@@ -1,0 +1,1 @@
+{"id":"bbf18409-47c5-4a66-8c2c-9c2b22bbc6cd","arguments":[],"weight":"1","visible":true,"input":"in.txt","output":"out.txt","timeout":0,"feedback":[{"message":"Sprawdź w kodzie czy zliczasz ilość wystąpień litery A w wyrazach.","weight":"0"}]}

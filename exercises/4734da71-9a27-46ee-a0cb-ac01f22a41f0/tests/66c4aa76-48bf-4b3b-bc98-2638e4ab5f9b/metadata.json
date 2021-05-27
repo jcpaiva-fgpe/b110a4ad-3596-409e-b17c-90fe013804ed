@@ -1,1 +1,1 @@
-{"id":"66c4aa76-48bf-4b3b-bc98-2638e4ab5f9b","arguments":[],"weight":"1","visible":false,"input":"in.txt","output":"out.txt","timeout":0,"feedback":[{"message":"Sprawdź czy stosujesz funkcje zmieniajacą napis na wielkie litery.","weight":"0"}]}
+{"id":"66c4aa76-48bf-4b3b-bc98-2638e4ab5f9b","arguments":[],"weight":"1","visible":"false","input":"in.txt","output":"out.txt","timeout":"0","feedback":[{"message":"Sprawdź czy stosujesz funkcje zmieniajacą napis na wielkie litery.","weight":"0"}]}

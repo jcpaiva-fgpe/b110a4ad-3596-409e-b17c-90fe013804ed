@@ -1,1 +1,1 @@
-{"id":"a6fd513a-85a1-4d0b-bf1a-d019e85871d7","arguments":[],"weight":"1","visible":true,"input":"in.txt","output":"out.txt","timeout":0,"feedback":[{"message":"Sprawdź swój kod.","weight":"0"}]}
+{"id":"a6fd513a-85a1-4d0b-bf1a-d019e85871d7","arguments":[],"weight":"1","visible":"true","input":"in.txt","output":"out.txt","timeout":"0","feedback":[{"message":"Sprawdź swój kod.","weight":"0"}]}

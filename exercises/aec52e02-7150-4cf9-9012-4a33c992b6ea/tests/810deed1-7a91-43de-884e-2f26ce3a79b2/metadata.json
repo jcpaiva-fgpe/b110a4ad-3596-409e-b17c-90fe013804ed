@@ -1,1 +1,1 @@
-{"id":"810deed1-7a91-43de-884e-2f26ce3a79b2","arguments":[],"weight":"1","visible":true,"input":"in.txt","output":"out.py","timeout":0,"feedback":[{"message":"Sprawdź czy poprawnie używasz polecenia wyświetlającego tekst.","weight":"0"}]}
+{"id":"810deed1-7a91-43de-884e-2f26ce3a79b2","arguments":[],"weight":"1","visible":"true","input":"in.txt","output":"out.py","timeout":"0","feedback":[{"message":"Sprawdź w kodzie czy poprawnie używasz polecenia wyświetlającego / wczytującego tekst.","weight":"0"}]}

@@ -1,1 +1,1 @@
-print(*[s for s in input() if s!='a'], sep="")
+print(*[s for s in input() if s!='i'], sep="")

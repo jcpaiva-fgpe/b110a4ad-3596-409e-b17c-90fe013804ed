@@ -1,3 +1,1 @@
-Podaj pierwszy napis: 
-Podaj drugi napis: 
-woda
+Takie same wyrazy to: woda

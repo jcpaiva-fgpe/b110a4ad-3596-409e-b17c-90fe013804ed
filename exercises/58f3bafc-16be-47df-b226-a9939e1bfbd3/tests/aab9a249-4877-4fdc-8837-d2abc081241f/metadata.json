@@ -1,0 +1,1 @@
+{"id":"aab9a249-4877-4fdc-8837-d2abc081241f","arguments":[],"weight":"1","visible":true,"input":"in.txt","output":"out.py","timeout":0,"feedback":[{"message":"Sprawdź w kodzie czy poprawnie używasz polecenia wczytującego tekst.","weight":"0"},{"message":"Sprawdź w kodzie czy poprawnie używasz polecenia wyświetlającego tekst.","weight":"0"}]}

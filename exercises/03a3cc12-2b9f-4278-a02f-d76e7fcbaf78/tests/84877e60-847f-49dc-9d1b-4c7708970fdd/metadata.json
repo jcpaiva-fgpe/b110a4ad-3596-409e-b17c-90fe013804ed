@@ -1,1 +1,1 @@
-{"id":"84877e60-847f-49dc-9d1b-4c7708970fdd","arguments":[],"weight":"0","visible":true,"input":"in.txt","output":"out.txt","timeout":0,"feedback":[{"message":"Sprawdź w kodzie czy użyłeś opcji wybrania z tekstu pierwszego lub ostatniego znaku.","weight":"0"}]}
+{"id":"84877e60-847f-49dc-9d1b-4c7708970fdd","arguments":[],"weight":"1","visible":"true","input":"in.txt","output":"out.txt","timeout":"0","feedback":[{"message":"Sprawdź w kodzie czy użyłeś opcji wybrania z tekstu pierwszego lub ostatniego znaku.","weight":"0"}]}

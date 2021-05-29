@@ -1,1 +1,1 @@
-{"id":"92bda3dd-f2df-418b-9b9b-fb256e1926ed","arguments":[],"weight":"1","visible":true,"input":"in.txt","output":"in.txt","timeout":0,"feedback":[{"message":"Sprawdź w kodzie czy poprawnie używasz polecenia wczytującego / wyświetlającego tekst.","weight":"0"}]}
+{"id":"92bda3dd-f2df-418b-9b9b-fb256e1926ed","arguments":[],"weight":"1","visible":"true","input":"in.txt","output":"out.txt","timeout":"0","feedback":[{"message":"Sprawdź w kodzie czy poprawnie używasz polecenia wczytującego / wyświetlającego tekst.","weight":"0"}]}

@@ -1,0 +1,5 @@
+Podaj słowo na literę A:
+Podaj słowo na literę T:
+Podaj słowo na literę K:
+Podaj słowo na literę T:
+Przegrałeś.

@@ -8,3 +8,4 @@ if i in przystanki and j in przystanki:
       print("Przystanki to:", *przystanki[przystanki.index(j)+1:przystanki.index(i)][::-1])
 else: 
     print("Brak takiego przystanku.")
+    

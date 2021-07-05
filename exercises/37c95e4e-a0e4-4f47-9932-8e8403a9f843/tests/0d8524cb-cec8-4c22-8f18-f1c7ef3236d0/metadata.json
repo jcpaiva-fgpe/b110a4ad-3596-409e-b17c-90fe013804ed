@@ -1,1 +1,1 @@
-{"id":"0d8524cb-cec8-4c22-8f18-f1c7ef3236d0","arguments":[],"weight":"1","visible":false,"input":"in.txt","output":"out.txt","timeout":0,"feedback":[{"message":"Test completed.","weight":"0"}]}
+{"id":"0d8524cb-cec8-4c22-8f18-f1c7ef3236d0","arguments":[],"weight":"1","visible":"false","input":"in.txt","output":"out.txt","timeout":"2","feedback":[{"message":"Test completed.","weight":"0"}]}

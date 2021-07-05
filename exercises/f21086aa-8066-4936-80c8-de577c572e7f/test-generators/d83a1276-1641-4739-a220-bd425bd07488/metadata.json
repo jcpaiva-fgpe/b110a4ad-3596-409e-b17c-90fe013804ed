@@ -1,1 +1,0 @@
-{"id":"d83a1276-1641-4739-a220-bd425bd07488","pathname":"test_generator.py","command_line":"printf $solutions/sol.py\"\\n10\\n\" | python $file"}

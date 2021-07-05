@@ -1,1 +1,0 @@
-{"id":"e711ecdf-1bc9-4008-af5d-09351cfabe72","arguments":[],"weight":"0","visible":false,"input":"in.txt","output":"out.txt","timeout":0,"feedback":[{"message":"Sprawdz czy Twoj output posiada napis: 'Znaleziono skróty: '","weight":"0"}]}

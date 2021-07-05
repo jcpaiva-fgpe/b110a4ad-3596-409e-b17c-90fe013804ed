@@ -1,1 +1,0 @@
-Przystanki to: Koszalin Słupsk Gdynia

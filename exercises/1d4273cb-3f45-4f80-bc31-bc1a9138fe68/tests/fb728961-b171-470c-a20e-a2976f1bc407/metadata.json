@@ -1,1 +1,0 @@
-{"id":"fb728961-b171-470c-a20e-a2976f1bc407","arguments":[],"weight":"1","visible":true,"input":"in.txt","output":"out.txt","timeout":0,"feedback":[{"message":"Sprawdź w kodzie czy poprawnie używasz instrukcji sprawdzającej pierwszą literę.","weight":"0"},{"message":"Sprawdź w kodzie czy stosujesz polecenia natychmiast przerywającego pętlę.","weight":"0"}]}

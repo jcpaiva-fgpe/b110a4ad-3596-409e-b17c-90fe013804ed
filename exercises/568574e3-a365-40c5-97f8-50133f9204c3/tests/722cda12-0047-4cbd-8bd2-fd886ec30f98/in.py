@@ -1,2 +1,0 @@
-zimna woda
-droga woda

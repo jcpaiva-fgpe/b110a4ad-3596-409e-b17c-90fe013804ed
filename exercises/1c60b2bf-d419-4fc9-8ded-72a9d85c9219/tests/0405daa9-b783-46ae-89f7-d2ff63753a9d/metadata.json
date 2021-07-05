@@ -1,1 +1,0 @@
-{"id":"0405daa9-b783-46ae-89f7-d2ff63753a9d","arguments":[],"weight":"3","visible":false,"input":"in1.txt","output":"out1.txt","timeout":0,"feedback":[{"message":"Sprawdź czy stosujesz opcje znajdowania właściwej pozycji na liście liderów dla nowego wyniku.","weight":"0"},{"message":"Sprawdź czy stosujesz polecenie wczytujące/wyświetlające tekst","weight":"0"}]}

@@ -1,4 +1,4 @@
 x = 0
-print(a)
+print(x)
 x = "x"
-print(a)
+print(x)

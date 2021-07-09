@@ -1,4 +1,4 @@
-grade = 5.0
+grade = float(input())
 
 if grade == 5.0:
     print ('Congratulations!')

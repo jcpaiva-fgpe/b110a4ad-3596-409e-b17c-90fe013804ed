@@ -1,6 +1,6 @@
-lewa = prawa = 'The same'
+left = right = 'The same'
 
-if lewa != prawa:
+if left != right:
     print('Incorrect!')
 else:
   	print('Correct!')

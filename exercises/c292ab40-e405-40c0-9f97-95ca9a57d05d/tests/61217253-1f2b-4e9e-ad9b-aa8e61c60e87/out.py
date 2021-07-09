@@ -1,1 +1,1 @@
-Zgadza się!
+Correct!

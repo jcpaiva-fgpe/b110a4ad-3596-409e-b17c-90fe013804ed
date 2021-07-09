@@ -1,5 +1,5 @@
 print("Enter a number:")
-x = input()
+x = int(input())
 
 if x % 2 == 0:
     print('Even')

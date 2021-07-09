@@ -7,4 +7,4 @@ if grade >= 4.0:
 if grade >= 3.0:
     print ('Made it again!')
 else:
-    print ('What a pity')
+    print ('What a pity.')

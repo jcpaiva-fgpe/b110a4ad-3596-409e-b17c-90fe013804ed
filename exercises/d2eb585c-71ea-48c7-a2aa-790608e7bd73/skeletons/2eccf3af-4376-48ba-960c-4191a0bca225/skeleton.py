@@ -1,4 +1,3 @@
 x = 7
-print ('Even')
-# or odd?
-print ('Odd') 
+print ('Even') 
+print ('Odd')

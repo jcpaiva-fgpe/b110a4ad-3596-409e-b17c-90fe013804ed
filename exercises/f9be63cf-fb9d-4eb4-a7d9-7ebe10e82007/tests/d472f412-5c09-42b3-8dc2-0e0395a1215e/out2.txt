@@ -1,0 +1,3 @@
+Number of employment contracts:
+Commuter? True or False?
+The annual costs of revenue is 5400 zł.

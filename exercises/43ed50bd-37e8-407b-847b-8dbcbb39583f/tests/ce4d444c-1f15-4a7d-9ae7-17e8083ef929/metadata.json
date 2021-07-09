@@ -1,1 +1,1 @@
-{"id":"ce4d444c-1f15-4a7d-9ae7-17e8083ef929","arguments":[],"weight":"1","visible":false,"input":"in2.txt","output":"out2.txt","timeout":0,"feedback":[{"message":"Test completed","weight":"0"}]}
+{"id":"ce4d444c-1f15-4a7d-9ae7-17e8083ef929","arguments":[],"weight":"1","visible":"false","input":"in2.txt","output":"out2.txt","timeout":"0","feedback":[{"message":"Test completed","weight":"0"}]}

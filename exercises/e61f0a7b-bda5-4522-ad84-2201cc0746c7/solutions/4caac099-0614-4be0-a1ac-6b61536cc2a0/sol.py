@@ -1,4 +1,4 @@
-grade = 4.5
+grade = float(input())
 
 if grade == 5.0:
     print ('Congratulations!')
@@ -7,4 +7,4 @@ elif grade >= 4.0:
 elif grade >= 3.0:
     print ('Made it again!')
 else:
-    print ('What a pity')
+    print ('What a pity.')

@@ -1,4 +1,4 @@
-grade = 5.0
+grade = 4.5
 
 if grade == 5.0:
     print ('Congratulations!')

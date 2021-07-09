@@ -1,0 +1,2 @@
+Enter a number:
+Does not match both conditions at once.

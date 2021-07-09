@@ -1,3 +1,5 @@
-x = 7
+print("Enter a number:")
+x = input()
+
 print ('Even') 
 print ('Odd')

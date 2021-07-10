@@ -6,5 +6,7 @@ while (True):
     country = input()
     
     if not country: break 
-    if not country:
+    if country in countries:
     	print('The name was mentioned before!')
+        
+    else: countries.add(country)

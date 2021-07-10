@@ -8,6 +8,6 @@ while wrong < 3:
     else:
         wrong +=1
         if wrong == 3:
-            print('has been reached.') 
+            print('Maximum number of login attempts has been reached.') 
             break
         print('That\'s not good.')

@@ -5,11 +5,11 @@ while wrong < 3:
     code = input()
 
     if code == 'Yummy!':
-        print('That\'s a good one!')
+        print('That is a good one!')
     else:
         wrong +=1
         if wrong == 3:
             print('Maximum number of login attempts has been reached.') 
             break
 
-        print('That\'s not good.')
+        print('That is not good.')

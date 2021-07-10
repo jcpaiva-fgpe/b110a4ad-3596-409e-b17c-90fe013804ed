@@ -1,0 +1,6 @@
+Dividend:
+12 is divided without any remainder by 6
+12 is divided without any remainder by 4
+12 is divided without any remainder by 3
+12 is divided without any remainder by 2
+In total 12 is divided without any remainder 4 times

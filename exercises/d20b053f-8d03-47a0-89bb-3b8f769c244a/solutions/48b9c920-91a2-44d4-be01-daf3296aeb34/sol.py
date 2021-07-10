@@ -6,6 +6,7 @@ while wrong < 3:
 
     if code == 'Yummy!':
         print('That is a good one!')
+        break
     else:
         wrong +=1
         if wrong == 3:

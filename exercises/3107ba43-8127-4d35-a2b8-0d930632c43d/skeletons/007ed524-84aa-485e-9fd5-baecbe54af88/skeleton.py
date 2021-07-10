@@ -1,5 +1,4 @@
 x = 0
-
 r = int(input())
 
 while x < r:

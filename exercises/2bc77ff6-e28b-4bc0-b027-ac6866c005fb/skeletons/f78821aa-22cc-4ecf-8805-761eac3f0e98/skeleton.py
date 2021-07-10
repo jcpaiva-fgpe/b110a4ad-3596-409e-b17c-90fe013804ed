@@ -1,6 +1,6 @@
-age = input('How old are you?\n')
+age = int(input('How old are you?\n'))
 
-while int(age) < 18:
+while age < 18:
     print('Underage.')    
     
     age = input('How old are you now?\n')

@@ -1,6 +1,6 @@
 Enter the secret lunch code:
-That's not good.
+That is not good.
 Enter the secret lunch code:
-That's not good.
+That is not good.
 Enter the secret lunch code:
-That's a good one!
+That is a good one!

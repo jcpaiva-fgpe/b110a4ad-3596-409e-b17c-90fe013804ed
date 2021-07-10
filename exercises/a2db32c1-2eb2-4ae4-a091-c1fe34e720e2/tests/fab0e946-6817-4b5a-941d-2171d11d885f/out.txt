@@ -1,0 +1,4 @@
+Number of set items: 100
+Smallest set element: 0
+Largest set element: 99
+Average value of the set: 49.5

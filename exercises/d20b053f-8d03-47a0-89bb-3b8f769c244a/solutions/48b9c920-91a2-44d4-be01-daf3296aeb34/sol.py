@@ -1,6 +1,7 @@
 wrong = 0
-print('Enter the secret lunch code:')
+
 while wrong < 3:
+    print('Enter the secret lunch code:')
     code = input()
 
     if code == 'Yummy!':
@@ -10,4 +11,5 @@ while wrong < 3:
         if wrong == 3:
             print('Maximum number of login attempts has been reached.') 
             break
+
         print('That\'s not good.')

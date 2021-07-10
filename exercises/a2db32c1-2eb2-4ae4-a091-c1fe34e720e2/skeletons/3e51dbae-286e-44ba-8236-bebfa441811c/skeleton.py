@@ -1,0 +1,5 @@
+num_set = set(range(100))
+print('Number of set items:', len(num_set))
+print('Smallest set element:', min(num_set))
+print('Largest set element:', max(num_set))
+print('Average value of the set:')

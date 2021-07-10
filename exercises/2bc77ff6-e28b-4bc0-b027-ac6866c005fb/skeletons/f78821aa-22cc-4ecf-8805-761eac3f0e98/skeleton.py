@@ -4,4 +4,4 @@ while age < 18:
     print('Underage.')    
     
     age = input('How old are you now?\n')
-    print('Finally adult!')
+print('Finally adult!')

@@ -1,5 +1,7 @@
 x = 0
 
-while x < 10:
+r = int(input())
+
+while x < r:
     print('*')
     x += 1

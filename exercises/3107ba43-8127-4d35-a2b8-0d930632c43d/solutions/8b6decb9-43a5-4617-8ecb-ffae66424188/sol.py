@@ -1,2 +1,5 @@
-for x in range(int(input())):
+x = 0
+r = int(input())
+
+for x in range(r):
     print('$')

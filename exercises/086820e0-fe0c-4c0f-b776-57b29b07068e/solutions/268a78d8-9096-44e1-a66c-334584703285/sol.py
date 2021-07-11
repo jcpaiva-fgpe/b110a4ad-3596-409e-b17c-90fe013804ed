@@ -2,7 +2,7 @@ countries = set()
 country = '?'
 
 while (True):
-    #print('Please name a country:')
+    print('Please name a country:')
     country = input()
     
     if not country: break # Test issue.

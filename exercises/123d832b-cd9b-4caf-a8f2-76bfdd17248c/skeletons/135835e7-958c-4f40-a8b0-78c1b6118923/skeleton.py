@@ -1,0 +1,4 @@
+mylist = []
+
+
+print('L =', mylist)

@@ -1,1 +1,1 @@
-{"id":"bc881d87-5586-4bed-94f9-ce8593064c67","arguments":[],"weight":"1","visible":false,"input":"in.txt","output":"out.txt","timeout":0,"feedback":[{"message":"Test completed","weight":"0"}]}
+{"id":"bc881d87-5586-4bed-94f9-ce8593064c67","arguments":[],"weight":"1","visible":"false","input":"in.txt","output":"out.txt","timeout":"0","feedback":[{"message":"Test completed","weight":"0"}]}

@@ -1,4 +1,2 @@
-mylist = [i for i in frozenset((True, 5.1, 'Dessert', True))]
-mylist.append(True)
-
+mylist = [True, 5.1, 'Dessert', True]
 print('L =', mylist)

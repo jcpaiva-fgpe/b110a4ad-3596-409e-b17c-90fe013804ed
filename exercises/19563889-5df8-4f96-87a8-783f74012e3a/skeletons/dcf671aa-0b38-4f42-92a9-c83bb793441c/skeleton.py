@@ -1,4 +1,4 @@
 mylist = []
 
 
-print('L=', mylist)
+print('L =', mylist)

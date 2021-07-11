@@ -1,3 +1,2 @@
 mylist = []
-
 print('L =', mylist)

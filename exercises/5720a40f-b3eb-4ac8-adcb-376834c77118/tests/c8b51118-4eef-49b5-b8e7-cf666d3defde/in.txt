@@ -1,0 +1,6 @@
+go
+washing
+vacuuming
+sleeping
+cooking
+ironing

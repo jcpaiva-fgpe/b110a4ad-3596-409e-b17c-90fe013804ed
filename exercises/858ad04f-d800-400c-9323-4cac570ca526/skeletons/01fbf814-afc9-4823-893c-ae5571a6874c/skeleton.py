@@ -1,4 +1,4 @@
-l = range(2,5)
+l = list(range(2,5))
 
 
 print(l)

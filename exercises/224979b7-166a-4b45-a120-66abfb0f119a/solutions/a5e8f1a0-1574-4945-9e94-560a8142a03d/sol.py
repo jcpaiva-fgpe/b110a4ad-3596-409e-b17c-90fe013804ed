@@ -1,4 +1,4 @@
-todos = ['washing', 'vacuuming', 'ironing', 'shaking']
+todos = ['washing', 'vacuuming', 'ironing', 'cooking']
 
 while todos:
     job = input ('Now what?\n')

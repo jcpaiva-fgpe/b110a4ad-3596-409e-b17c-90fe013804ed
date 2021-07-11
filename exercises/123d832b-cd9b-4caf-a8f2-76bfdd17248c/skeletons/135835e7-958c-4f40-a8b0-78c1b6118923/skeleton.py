@@ -1,4 +1,3 @@
 mylist = []
 
-
 print('L =', mylist)

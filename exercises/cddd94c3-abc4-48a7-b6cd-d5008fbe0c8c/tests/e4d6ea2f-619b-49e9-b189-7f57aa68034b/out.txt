@@ -1,1 +1,2 @@
+Enter some text:
 List of characters: ['e', 'k', 'l', 'm']

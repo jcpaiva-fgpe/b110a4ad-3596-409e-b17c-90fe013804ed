@@ -1,4 +1,4 @@
 t = input("Enter some text:\n")
-l = list(dict.fromkeys(l))
-#l = list(set(l))
-print(l[:4])
+l = list(dict.fromkeys(t))
+#l = list(set(t))
+print('List of characters:', l[:4])

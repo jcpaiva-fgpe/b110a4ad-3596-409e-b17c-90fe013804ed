@@ -3,4 +3,4 @@ naj = 0
 for e in l:
     pass
     
-print('Najczęściej występującą wartością jest:', e)
+print('The most freuent value is:', e)

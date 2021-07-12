@@ -1,1 +1,1 @@
-List of characters: ['e', 'o', 'l', 'm']
+List of characters: ['m', 'e', 'k', 'l']

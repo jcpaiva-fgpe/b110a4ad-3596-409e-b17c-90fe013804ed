@@ -1,3 +1,3 @@
 t = input("Enter some text:\n")
-l = sorted(list(set(t)))
-print('List of characters:', l)
+l = list(set(t))
+print('List of characters:', sorted(l))

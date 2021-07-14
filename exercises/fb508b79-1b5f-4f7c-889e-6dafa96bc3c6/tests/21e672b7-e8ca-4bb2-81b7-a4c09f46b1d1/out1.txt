@@ -1,1 +1,2 @@
+Enter a word to translate:
 policja

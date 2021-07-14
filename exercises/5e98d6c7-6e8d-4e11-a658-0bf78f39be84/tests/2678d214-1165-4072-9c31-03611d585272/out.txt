@@ -1,0 +1,1 @@
+{'gas emergency': 992, 'police': 997, 'fire brigade': 998}

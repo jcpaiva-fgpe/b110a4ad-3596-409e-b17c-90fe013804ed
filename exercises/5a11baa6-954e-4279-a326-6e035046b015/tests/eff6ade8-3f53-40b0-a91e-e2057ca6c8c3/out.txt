@@ -1,3 +1,2 @@
 Enter text with asterisks:
-
-[Footnote], [Footnote].
+Text after asterisk replacement: [Footnote], [Footnote].

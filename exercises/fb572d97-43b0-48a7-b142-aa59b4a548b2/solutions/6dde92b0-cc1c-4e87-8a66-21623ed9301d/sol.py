@@ -1,3 +1,5 @@
+print("Enter some text:")
 txt = input()
+
 txt = max(txt.split(), key = len)
-print(txt)
+print("The longest string is:", txt)

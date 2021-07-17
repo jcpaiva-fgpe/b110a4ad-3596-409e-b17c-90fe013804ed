@@ -1,3 +1,4 @@
+# Example:
 def div(a=2, b=3):
     return a/b
 
@@ -9,13 +10,14 @@ print(div(2, 1))
 #"""
 
 
+#Your function to rewrite
 def stars():
     
 	pass
 
 
 # ___________________________________
-#  Test for stars CAN'T TOUCH THIS   #
+# Test stars(). CAN'T TOUCH THIS!    #
 # ---------------------------------- #
 try: print(stars(int(input())))      #
 except: print(stars())               #

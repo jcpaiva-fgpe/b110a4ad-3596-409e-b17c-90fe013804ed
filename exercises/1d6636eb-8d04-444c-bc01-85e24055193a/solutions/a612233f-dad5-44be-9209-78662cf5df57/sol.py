@@ -1,5 +1,7 @@
-def root(x):
-	return x**0.5
+def root(x,y):
+	return x**(1/y)
 
 x = int(input('x:\n'))
-print(str(2) + '\u221A' + str(x), 'is:', root(x))
+y = int(input('y:\n'))
+
+print(str(y) + '\u221A' + str(x), 'is:', root(x,y))

@@ -16,3 +16,4 @@ x = int(input())
 
 print(str(2) + '-nth root of', x, 'is:', root(x))
 #print(y + '-nth root of', x, 'is:', root(x,y))
+#Expected output: 4-th root of 81 is 3.0

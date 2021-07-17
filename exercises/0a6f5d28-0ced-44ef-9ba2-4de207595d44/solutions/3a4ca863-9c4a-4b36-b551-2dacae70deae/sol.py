@@ -1,5 +1,5 @@
 def stars():
-	print('*'*15, end=" ")
+	print('*'*15, end="")
 
 stars()
 stars()

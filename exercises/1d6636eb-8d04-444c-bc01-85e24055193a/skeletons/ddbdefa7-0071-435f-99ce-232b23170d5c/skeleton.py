@@ -15,5 +15,5 @@ def root(x):
 
 x = int(input())
 
-print(str(2) + '-nth root of', x, 'is:', root(x))
-# Expected output: n-th root of x is: (here the result)
+print(str(2) + '\u221A' + x, 'is:', root(x))
+# Expected output: n√x is: (here the result)

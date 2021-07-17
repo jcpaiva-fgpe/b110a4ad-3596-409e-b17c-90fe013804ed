@@ -1,7 +1,7 @@
 def avg():
 
 
-    return "Call the function with at least one arg."
+    return 0
 
 
 

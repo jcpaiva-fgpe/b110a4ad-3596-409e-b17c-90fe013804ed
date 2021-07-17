@@ -1,5 +1,5 @@
-def gwiazdki():
+def stars():
 	print ('*'*15)
 
-gwiazdki()
-gwiazdki()
+stars()
+stars()

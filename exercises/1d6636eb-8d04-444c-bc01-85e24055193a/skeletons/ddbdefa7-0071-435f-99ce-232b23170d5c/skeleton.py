@@ -11,7 +11,6 @@ print(4, '^', 3, 'is:', power(n=3, x=4))
 
 
 # Your root function
-
 def root(x):
 	return x**0.5
 

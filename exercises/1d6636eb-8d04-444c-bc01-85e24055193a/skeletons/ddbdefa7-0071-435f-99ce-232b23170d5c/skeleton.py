@@ -1,10 +1,10 @@
 def power(x, n):
     return x**n
     
-print(3, '^', 4, 'is:', power(3, 4))
-print(4, '^', 3, 'is:', power(4, 3))
-print(3, '^', 4, 'is:', power(x=3, n=4))
-print(4, '^', 3, 'is:', power(n=3, x=4))
+#print(3, '^', 4, 'is:', power(3, 4))
+#print(4, '^', 3, 'is:', power(4, 3))
+#print(3, '^', 4, 'is:', power(x=3, n=4))
+#print(4, '^', 3, 'is:', power(n=3, x=4))
 
 
 # Your root function

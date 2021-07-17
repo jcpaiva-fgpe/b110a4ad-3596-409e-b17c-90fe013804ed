@@ -3,3 +3,4 @@ def stars():
 
 stars()
 stars()
+print()

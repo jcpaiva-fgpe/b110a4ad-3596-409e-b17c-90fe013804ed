@@ -1,1 +1,1 @@
-{"id":"d15e9cbe-03bd-46f6-9d74-3c803b6d75d0","arguments":[],"weight":"1","visible":false,"input":"in.txt","output":"out.txt","timeout":0,"feedback":[{"message":"Test completed","weight":"0"}]}
+{"id":"d15e9cbe-03bd-46f6-9d74-3c803b6d75d0","arguments":[],"weight":"1","visible":"false","input":"in.txt","output":"out.txt","timeout":"0","feedback":[{"message":"Test completed","weight":"0"}]}

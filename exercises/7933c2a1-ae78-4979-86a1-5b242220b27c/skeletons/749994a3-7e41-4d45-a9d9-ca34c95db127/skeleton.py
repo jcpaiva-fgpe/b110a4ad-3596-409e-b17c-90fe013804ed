@@ -10,7 +10,8 @@ def avg():
 print(avg(*map(int, input().split())))  
 ######################################
 
-""" <-- Example: PUT A # ON THE BEGINNING of the line.
+
+""" <-- Example: JUST PUT A # ON THE BEGINNING (before ''').
 
 x, y = map(int, input().split())
 
@@ -21,6 +22,6 @@ print(avg())         # Withouut arg
 print(avg(x))        # one arg
 print(avg(x,y))      # two args
 
-#""" 
 ####### EOT - End of test. ##########
 #####################################
+#""" 

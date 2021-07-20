@@ -8,5 +8,5 @@ if thorgal <= collection.intersection(thorgal):
     print('You have the complete Thorgal series.')
 else:
     print ('You are missing the following Thorgal series:')
-    for t in thorgal.symmetric_difference(collection.intersection(thorgal)):
+    for t in thorgal.symmetric_difference(thorgal.intersection(collection)):
         print(t)

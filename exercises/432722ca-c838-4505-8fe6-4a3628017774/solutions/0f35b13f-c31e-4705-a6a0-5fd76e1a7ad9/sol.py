@@ -4,5 +4,5 @@ class Square:
         f.a = a
    def perimeter(f):
        return f.a * 4.0
-k = Square(3)
+k = Square(3.0)
 print(k.perimeter())

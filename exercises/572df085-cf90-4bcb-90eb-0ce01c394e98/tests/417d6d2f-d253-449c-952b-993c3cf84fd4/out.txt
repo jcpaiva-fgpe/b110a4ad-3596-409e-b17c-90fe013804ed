@@ -1,0 +1,1 @@
+Side of the square is a = 1.0

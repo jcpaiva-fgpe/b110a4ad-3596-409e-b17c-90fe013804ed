@@ -1,0 +1,4 @@
+wool in color: gray
+False
+False
+jeans in color: blue

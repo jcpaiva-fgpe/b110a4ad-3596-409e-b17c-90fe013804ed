@@ -1,13 +1,13 @@
 <p>1. Define a class <i> Figure </i> so that it will include: 
-<ul><li> the method <i> perimeters </i> is returning the perimeter calculated as the sum of the elements of the <i> side </i> attribute (which is a list; do not define this list for the Figure class, you will define it for child classes later).</li>
-<li> the method <i> __str__ </i> is returning a text description of an object in the form of a class name and a list containing all sides of the shape &ndash; 
+<ul><li> the method <i> perimeters </i> which is returning the perimeter calculated as the sum of the elements of the <i> side </i> attribute (which is a list; do not define this list for the Figure class, you will define it for child classes afterwards).</li>
+<li> the method <i> __str__ </i> which is returning a text description of an object in the form of a class name and a list containing all sides of the shape &ndash; 
 even if they have the same length all sides of a given figure should be displayed, e.g. for a square with the side length 7 (see below) the output will be: 'Square [7, 7, 7, 7]'.</ul> 
 <br>
 
-2. Then define the classes: <i> Square </i>, <i> Rectangle </i> and <i> RectangularTriangle </i> inheriting from <i> Figure </i> each. 
+2. Then define the classes: <i> Square </i>, <i> Rectangle </i> and <i> RightTriangle </i> inheriting from the class <i> Figure </i> each. 
 Also for all of them, define: <ul><li> the method <i> __init__ </i> taking one, two or three side lengths saving them as list items <i> sides </i> &ndash; note: to simplify the perimeter calculation, keep all sides of the figure, even if they are of the same length, e.g.
 a square with side length 7 is to store a list <i> sides </i> equal to [7, 7, 7, 7], </li> 
-<li> method <i> field </i> calculating the area of ​​a given figure based on the data contained in the list <i> sides</i>.</li> </ul> 
+<li> the method <i> area </i> calculating the area of ​​a given figure based on the data contained in the list <i> sides</i>.</li> </ul> 
 <br>
 
 3. Create a list of <i> figures </i> and place the following objects in its first three fields: <ul> 

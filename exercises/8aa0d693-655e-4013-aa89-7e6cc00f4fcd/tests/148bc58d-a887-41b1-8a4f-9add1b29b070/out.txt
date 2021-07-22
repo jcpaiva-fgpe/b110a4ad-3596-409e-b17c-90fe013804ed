@@ -1,4 +1,4 @@
 wool in color: gray
-False
+True
 False
 jeans in color: blue

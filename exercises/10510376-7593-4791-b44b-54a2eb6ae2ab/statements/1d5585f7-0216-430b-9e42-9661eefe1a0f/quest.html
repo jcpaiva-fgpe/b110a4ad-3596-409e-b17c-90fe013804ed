@@ -1,1 +1,7 @@
-<p></p>
+<p> The classic, forceful algorithm of searching for an element in a sequence (implemented e.g. in the index method) checks all its elements from left to right, one by one, until it finds the right one (or finds it missing). If the elements of the sequence are ordered, it does not affect its operation in any way.</p>
+<p> The binary search is a search algorithm making use of the fact that the sequence has been sorted. It does not search the whole sequence, but only checks the middle element of the sequence: if it is the one searched for, it ends successfully, if not, then:</p>
+<ul>
+<li> If the checked value was less than the searched value, then in the ascending sort order, the searched value may only be after the checked value, so the search continues in the right part of the sequence,</li>
+<li> If the checked value was larger than the searched value, then in the ascending sort order, the searched value can only be found before the checked value, so the search continues in the left part of the sequence.</li>
+</ul>
+<p>Create a program for the quicksort algorithm, where the user is entering a sequence of numbers separated by a space, and reads the index as a separate value.</p>

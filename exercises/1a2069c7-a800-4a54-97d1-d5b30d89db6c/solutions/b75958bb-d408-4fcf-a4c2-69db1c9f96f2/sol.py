@@ -8,6 +8,6 @@ def qsort(list_a):
         the_same = [x for x in list_a if x == middle]
         return smaller + the_same + higher
 
-test = input()
+test = list(map(int, input().split()))
 print("List:", test)
 print("Sorted:", qsort(test))

@@ -1,28 +1,31 @@
 def knight(dimension, x = 0, y = 0):
-    def jump (movement, x, y): # function trying to make another move
+    def jump (movement, x, y):
         nonlocal dx, dy, sz
-        for k in range(8): # there are 8 possible knight moves
-            xn = x + dx[k] # new coordinates
+        for k in range(8):
+            xn = x + dx[k]
             yn = y + dy[k]
-            if (xn in range(dimension)) and (yn in range(dimension)): # on the board?
+            if (xn in range(dimension)) and (yn in range(dimension)):
                if sz[xn][yn] == 0:
-                  sz[xn][yn] = movement # we save the current movement
-                  if movement == dimension * dimension: return True # that was the last jump
-                  if jump(movement + 1, xn, yn): return True # we try another one
-                  sz[xn][yn] = 0 # failed attempta
+                  sz[xn][yn] = movement
+                  if movement == dimension * dimension: 
+                      return True
+                  if jump(movement + 1, xn, yn): 
+                      return True 
+                  sz[xn][yn] = 0 
         return False
     
-    dx = ( 1,  2, 2, 1, -1, -2, -2, -1) # Possible movements (change x)
-    dy = (-2, -1, 1, 2,  2,  1, -1, -2) # Possible movements (change y)
-    sz = [ [0 for x in range(dimension)] for y in range(dimension) ] # chessboard
-    sz[x][y] = 1 # starting point
+    dx = ( 1,  2, 2, 1, -1, -2, -2, -1) 
+    dy = (-2, -1, 1, 2,  2,  1, -1, -2) 
+    sz = [ [0 for x in range(dimension)] for y in range(dimension) ] 
+    sz[x][y] = 1 
     if not jump(2, x, y): 
         print("Failed.")
     else: 
-        for y in range(dimension): # displaying the solution
-            print('\n|', end='')
+        for y in range(dimension): 
+            print('|', end='')
             for x in range(dimension):
                 print(f"{sz[x][y]:2}", end="|")
-                
+            print()
+
 d = int(input())
 knight(d)

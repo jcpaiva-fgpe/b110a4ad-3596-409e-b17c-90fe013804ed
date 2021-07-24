@@ -7,4 +7,4 @@ class Memo():
         return cls.calculated[n]
 
 n = int(input("n:\n"))
-print(f"Fib({n}) =", Memo.fib(n))
+print(f"fib({n}) =", Memo.fib(n))

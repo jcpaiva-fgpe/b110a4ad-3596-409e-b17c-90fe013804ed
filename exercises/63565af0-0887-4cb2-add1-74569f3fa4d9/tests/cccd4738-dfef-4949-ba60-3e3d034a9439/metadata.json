@@ -1,1 +1,1 @@
-{"id":"cccd4738-dfef-4949-ba60-3e3d034a9439","arguments":[],"weight":"1","visible":"false","input":"in2.txt","output":"out2.txt","timeout":"0","feedback":[{"message":"Test completed","weight":"0"}]}
+{"id":"cccd4738-dfef-4949-ba60-3e3d034a9439","arguments":[],"weight":"1","visible":"false","input":"in2.txt","output":"out2.txt","timeout":"2","feedback":[{"message":"Test completed","weight":"0"}]}

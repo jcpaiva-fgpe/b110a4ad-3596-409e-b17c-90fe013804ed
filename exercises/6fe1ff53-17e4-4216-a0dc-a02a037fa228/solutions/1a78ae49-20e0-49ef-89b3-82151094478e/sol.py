@@ -25,9 +25,9 @@ class Queens:
         rx = dict(zip(self.x.values(), self.x.keys()))
         s = ""
         for j in range(1, self.dimension + 1):
-            s += '\n|' + '+|' * (rx[j] - 1) + 'H|' + '+|' * (self.dimension - rx[j])
+            s += '|' + '+|' * (rx[j] - 1) + 'H|' + '+|' * (self.dimension - rx[j]) + '\n'
         return s
     
 checkerboard = Queens(8)
 checkerboard.set()
-print(checkerboard)
+print(str(checkerboard)[:-1])

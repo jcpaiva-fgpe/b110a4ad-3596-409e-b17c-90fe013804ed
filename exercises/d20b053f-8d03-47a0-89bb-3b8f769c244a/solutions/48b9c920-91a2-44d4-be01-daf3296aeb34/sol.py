@@ -5,7 +5,7 @@ while wrong < 3:
     code = input()
 
     if code == 'Yummy!':
-        print(True)
+        print('True!')
         break
     else:
         wrong +=1

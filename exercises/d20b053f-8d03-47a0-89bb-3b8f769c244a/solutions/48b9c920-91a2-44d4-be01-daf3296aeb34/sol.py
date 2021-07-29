@@ -1,16 +1,16 @@
 wrong = 0
 
 while wrong < 3:
-    print('Enter the secret lunch code:')
+    print('Code?')
     code = input()
 
     if code == 'Yummy!':
-        print('That is a good one!')
+        print(True)
         break
     else:
         wrong +=1
         if wrong == 3:
-            print('Maximum number of login attempts has been reached.') 
+            print('False!') 
             break
 
-        print('That is not good.')
+        print(False)

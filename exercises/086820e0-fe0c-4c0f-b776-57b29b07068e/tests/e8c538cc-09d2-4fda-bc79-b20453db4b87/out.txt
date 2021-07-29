@@ -1,4 +1,4 @@
 Please name a country:
 Please name a country:
-The name was mentioned before!
+False
 Please name a country:

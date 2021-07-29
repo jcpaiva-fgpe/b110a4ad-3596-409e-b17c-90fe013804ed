@@ -1,6 +1,6 @@
-print('Write the 1st text:')
+print('String 1?')
 txt1 = input()
-print('Write the 2nd text:')
+print('String 2?')
 txt2 = input()
 
-print('Common letters are:')
+print('Common characters:')

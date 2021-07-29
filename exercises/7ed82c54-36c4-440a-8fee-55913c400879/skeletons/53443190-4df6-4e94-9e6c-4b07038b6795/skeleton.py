@@ -1,5 +1,4 @@
-print('Enter text with underscores:')
+print('String?')
 txt = input()
 
-print('Text after modification:')
 print(txt)

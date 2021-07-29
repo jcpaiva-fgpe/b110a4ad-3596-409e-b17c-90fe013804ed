@@ -1,3 +1,2 @@
-Enter text with underscores:
-Text after modification:
+String?
 I like PYTHON tutorials.

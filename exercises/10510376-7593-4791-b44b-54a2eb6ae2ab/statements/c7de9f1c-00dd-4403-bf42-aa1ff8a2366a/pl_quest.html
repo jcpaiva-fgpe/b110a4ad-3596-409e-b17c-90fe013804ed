@@ -1,0 +1,7 @@
+<p> Klasyczny, forsowny algorytm wyszukiwania elementu w sekwencji (zaimplementowany np. w metodzie index) sprawdza wszystkie jego elementy od lewej do prawej, jeden po drugim, aż znajdzie właściwy (lub nie znajdzie go). Jeśli elementy sekwencji są uporządkowane, nie wpływa to w żaden sposób na jej działanie.</p>
+<p> Wyszukiwanie binarne to algorytm wyszukiwania wykorzystujący fakt, że sekwencja została posortowana. Nie przeszukuje całej sekwencji, a jedynie sprawdza środkowy element sekwencji: jeśli jest to ten, którego szukano, kończy się pomyślnie, jeśli nie, to:</p>
+<ul>
+<li> Jeśli sprawdzana wartość była mniejsza niż szukana wartość, to w porządku rosnącym szukana wartość może znajdować się tylko za sprawdzaną wartością, więc wyszukiwanie jest kontynuowane w prawej części sekwencji,</li>
+<li> Jeśli sprawdzana wartość była większa niż szukana wartość, to w porządku rosnącym, szukana wartość może być znaleziona tylko przed sprawdzaną wartością, więc wyszukiwanie jest kontynuowane w lewej części sekwencji.</li>
+</ul>
+<p>Napisz program dla algorytmu szybkiego sortowania (quicksort), w którym użytkownik wprowadza sekwencję liczb oddzielonych spacją i odczytuje indeks jako oddzielną wartość.</p>

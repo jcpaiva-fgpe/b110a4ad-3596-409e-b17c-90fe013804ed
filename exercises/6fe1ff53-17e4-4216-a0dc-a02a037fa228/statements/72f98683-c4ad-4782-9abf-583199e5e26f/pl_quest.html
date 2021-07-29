@@ -1,1 +1,20 @@
-<p></p>
+<h4> Problem 8 hetmanów </h4>
+<p> Create a program that displays a coded representation of a chessboard filled with eight Q's, which represents the specific positions where the Queen (chess) should be placed - see below.</p>
+<ul>
+<li> Hetman szachuje wszystkie pola w tych samych liniach: poziomej, pionowej i po przekątnych. </li>
+<li> Standardowe wymiary szachownicy to 8 x 8</li>
+</ul>
+<p> Napisz kod, który wskaże w jaki sposób rozstawić na szachownicy 8 hetmanów, tak by żaden nie szachował innego. </p>
+<br><img height="281" width="281" src="https://studio-draft.navoica.pl/assets/courseware/v1/cdc5722e93387247c8616727132c6544/asset-v1:US+IP1+2020_1+type@asset+block/Untitled_Diagram__9_.png" />
+
+<p> <br> Wynik dla 8 hetmanów powinien wyglądać następująco: </p>
+<pre class="language-python"><code>
+|Q|+|+|+|+|+|+|+|
+|+|+|+|+|+|+|Q|+|
+|+|+|+|+|Q|+|+|+|
+|+|+|+|+|+|+|+|Q|
+|+|Q|+|+|+|+|+|+|
+|+|+|+|Q|+|+|+|+|
+|+|+|+|+|+|Q|+|+|
+|+|+|Q|+|+|+|+|+|</code></pre>
+<p> <br> Hint: To store the momentary state of the solution, you can create a class Queens. The data structure is crucial. Instead of a two-dimensional 8x8 array, you can use four one-dimensional lists.</p>

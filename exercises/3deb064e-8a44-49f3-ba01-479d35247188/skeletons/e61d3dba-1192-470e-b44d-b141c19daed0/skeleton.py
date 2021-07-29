@@ -1,5 +1,4 @@
-print('String')
+print('String?')
 txt = input()
 
-print('Output')
 print(txt)

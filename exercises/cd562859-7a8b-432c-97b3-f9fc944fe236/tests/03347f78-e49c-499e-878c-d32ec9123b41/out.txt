@@ -1,2 +1,2 @@
-Write some text:
+Text?
 This might be a unique sentence consists of 15 characters.

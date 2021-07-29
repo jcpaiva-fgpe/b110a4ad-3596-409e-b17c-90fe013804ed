@@ -1,0 +1,16 @@
+<p> Wykonaj następujące kroki:<br>1. Zdefiniuj klasę <i>Figura</i> tak, by zawierała: </p>
+<ul>
+<li>metodę <i>obwod</i> zwracającą obwód wyliczony jako suma elementów atrybutu <i>boki</i> (który jest listą; nie definiuj tej listy dla klasy Figura, zdefiniujesz ją dla klas potomnych);</li>\
+<li>metodę <i>__str__</i> zwracającą tekstowy opis obiektu w postaci nazwy klasy i listy wszystkich boków &ndash; należy wymienić wszystkie boki danej figury, nawet jeśli mają one takie same długości, czyli np. dla kwadratu o boku długości 7 (patrz niżej) będzie to: 'Kwadrat[7, 7, 7, 7]'. </ul>\
+<p>2. Następnie zdefiniuj klasy: <i>Kwadrat</i>, <i>Prostokat</i> i <i>TrojkatProstokatny</i> dziedziczące po klasie <i> Figura </i>. Dla każdej z nich zdefinuj: </p>
+<ul>
+<li>metodę <i>__init__</i> przyjmującą odpowiednio jedną, dwie lub trzy długości boków i zapisującą je jako kolejne 
+elementy listy <i>boki</i> &ndash; uwaga: dla uproszczenia obliczania obwodu, należy przechowywać wszystkie boki danej figury, 
+nawet jeśli mają one takie same długości, czyli np. kwadrat o boku długości 7 ma przechowywać listę <i>boki</i> równą [7, 7, 7, 7],</li> 
+<li>metodę <i>pole</i> obliczającą pole danej figury w oparciu o dane zawarte na liście <i>boki</i>.</li></ul>
+<p> 3. Utwórz listę <i>figury</i> i umieść na jej trzech pierwszych polach następujące obiekty: </p>
+<ul>
+<li>obiekt klasy <i>Kwadrat</i> dla boku o długości 7;</li>
+<li>obiekt klasy <i>Prostokat</i> dla boków o długościach 5, 6;</li>
+<li>obiekt klasy <i>TrojkatProstokatny</i> dla boków o długościach: 3, 4, 5.</li></ul>
+<p> 4. Użyj pętli <i>for</i>, która przejdzie przez wszystkie elementy listy <i>figury</i> i wyświetli dla każdego z nich kolejno: tekstową reprezentację figury, jej obwód, jej pole. Na przykład, dla drugiej z figur powinno to być: 'Prostokat[5, 6, 5, 6] 22 30'.</p>

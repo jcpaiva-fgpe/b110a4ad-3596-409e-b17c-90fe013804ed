@@ -1,2 +1,2 @@
-Enter some text:
-The longest string is: belemelek
+String?
+Output: belemelek

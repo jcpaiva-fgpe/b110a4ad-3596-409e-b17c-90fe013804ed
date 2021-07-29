@@ -1,5 +1,5 @@
-print("Enter some text:")
+print("String?")
 txt = input()
 
 txt = max(txt.split(), key = len)
-print("The longest string is:", txt)
+print("Output:", txt)

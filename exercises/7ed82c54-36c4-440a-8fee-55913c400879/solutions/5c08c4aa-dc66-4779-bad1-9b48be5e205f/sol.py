@@ -1,4 +1,4 @@
-print('Enter text with underscores:')
+print('String?')
 txt = input()
 
 while txt.count('_') % 2 == 0:
@@ -6,5 +6,4 @@ while txt.count('_') % 2 == 0:
     upword = str(txt[txt.find('_')+1:txt.find('_', txt.find('_')+1)]).upper()
     txt = txt[:txt.find('_')] + upword + txt[txt.find('_', txt.find('_')+1)+1:]
 
-print('Text after modification:')
 print(txt)

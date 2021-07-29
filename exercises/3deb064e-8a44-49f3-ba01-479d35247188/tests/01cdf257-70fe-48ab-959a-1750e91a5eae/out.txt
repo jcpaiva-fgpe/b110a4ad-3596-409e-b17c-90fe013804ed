@@ -1,3 +1,2 @@
 String?
-Output:
 Hey! There is () something good in a bad day.

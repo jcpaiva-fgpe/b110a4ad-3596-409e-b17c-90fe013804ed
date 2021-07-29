@@ -1,5 +1,5 @@
-print('Enter text with parentheses:')
+print('String')
 txt = input()
 
-print('Text after removing parentheses:')
+print('Output')
 print(txt)

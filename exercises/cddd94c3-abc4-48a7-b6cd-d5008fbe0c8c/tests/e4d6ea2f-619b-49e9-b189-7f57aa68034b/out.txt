@@ -1,2 +1,2 @@
-Enter some text:
+String?
 List of characters: ['e', 'k', 'l', 'm']

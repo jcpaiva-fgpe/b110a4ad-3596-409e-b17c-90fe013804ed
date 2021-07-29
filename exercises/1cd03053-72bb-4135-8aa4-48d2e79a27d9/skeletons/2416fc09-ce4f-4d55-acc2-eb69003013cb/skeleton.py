@@ -7,5 +7,4 @@ def stars():          #
 
 
 
-
 ### YOUR CODE HERE

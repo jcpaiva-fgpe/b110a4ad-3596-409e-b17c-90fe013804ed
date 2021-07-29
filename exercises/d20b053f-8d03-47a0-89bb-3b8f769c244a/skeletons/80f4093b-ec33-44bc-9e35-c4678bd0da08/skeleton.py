@@ -1,7 +1,7 @@
-print('Enter the secret lunch code:')
+print('Enter code:')
 code = input()
 
 if code == 'Yummy!':
-	print('That is a good one!')
+	print(True)
 else:
-	print('That is not good.')
+	print(False)

@@ -1,2 +1,2 @@
-txt = input('Write some text:\n')
+txt = input('Text?\n')
 print(txt, 'consists of', len(txt), 'characters.')

@@ -1,4 +1,4 @@
-print('Enter code:')
+print('Code?')
 code = input()
 
 if code == 'Yummy!':

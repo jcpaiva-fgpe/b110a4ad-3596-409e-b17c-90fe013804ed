@@ -2,11 +2,11 @@ countries = set()
 country = '?'
 
 while (True):
-    print('Please name a country:')
+    print('Country name?')
     country = input()
     
     if not country: break # Test issue.
     if country in countries:
-    	print('The name was mentioned before!')
+    	print(False)
         
     else: countries.add(country)

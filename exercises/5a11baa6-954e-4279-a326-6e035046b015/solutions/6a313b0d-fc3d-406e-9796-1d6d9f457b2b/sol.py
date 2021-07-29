@@ -1,5 +1,5 @@
-print('Enter text with asterisks:')
+print('String?')
 txt = input()
 
 txt = txt.replace('*', '[Footnote]')
-print('Text after asterisk replacement:', txt)
+print('Output:', txt)

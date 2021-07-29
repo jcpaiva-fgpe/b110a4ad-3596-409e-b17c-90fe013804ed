@@ -1,2 +1,2 @@
-mylist = []
-print('L =', mylist)
+lista = []
+print('L =', lista)

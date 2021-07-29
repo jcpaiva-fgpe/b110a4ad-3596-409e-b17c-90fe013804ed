@@ -1,5 +1,5 @@
-print('Enter text with asterisks:')
+print('String?')
 txt = input()
 
 
-print('Text after asterisk replacement:', txt)
+print('Output:', txt)

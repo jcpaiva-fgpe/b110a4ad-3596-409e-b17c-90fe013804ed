@@ -1,4 +1,4 @@
-txt = input('Write some text:\n')
+txt = input('Text?\n')
 uniq = set()
 for i in txt:
     uniq.update(i)

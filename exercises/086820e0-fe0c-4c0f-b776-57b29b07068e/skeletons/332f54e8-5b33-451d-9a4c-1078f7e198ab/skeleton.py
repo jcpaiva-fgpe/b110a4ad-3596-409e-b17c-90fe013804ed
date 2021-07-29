@@ -2,9 +2,9 @@ countries = set()
 country = '?'
 
 while (True):
-    print('Please name a country:')
+    print('Country name?')
     country = input()
     
     if not country: break 
     if not country:
-    	print('The name was mentioned before!')
+    	print(False)

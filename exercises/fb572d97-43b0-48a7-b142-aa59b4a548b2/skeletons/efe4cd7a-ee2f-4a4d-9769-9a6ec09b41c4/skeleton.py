@@ -1,5 +1,5 @@
-print("Enter some text:")
+print("String?")
 txt = input()
 
 
-print("The longest string is:", txt)
+print("Output:", txt)

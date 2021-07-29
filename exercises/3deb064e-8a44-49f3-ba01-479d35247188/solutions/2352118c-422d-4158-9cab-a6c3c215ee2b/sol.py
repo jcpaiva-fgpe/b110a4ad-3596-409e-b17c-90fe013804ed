@@ -1,6 +1,6 @@
-print('Enter text with parentheses:')
+print('String?')
 txt = input()
 if txt.count('(') + txt.count(')') == 2:
-    print('Text after removing parentheses:')
+    print('Output:')
     txt = txt[:txt.find('(')+1] + txt[txt.rfind(')'):]
 print(txt)

@@ -1,2 +1,2 @@
-Enter text with asterisks:
-Text after asterisk replacement: [Footnote], [Footnote].
+String?
+Output: [Footnote], [Footnote].

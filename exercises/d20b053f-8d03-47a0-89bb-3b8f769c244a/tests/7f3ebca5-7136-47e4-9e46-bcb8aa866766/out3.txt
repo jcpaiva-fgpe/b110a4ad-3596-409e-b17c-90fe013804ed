@@ -1,6 +1,6 @@
-Enter the secret lunch code:
-That is not good.
-Enter the secret lunch code:
-That is not good.
-Enter the secret lunch code:
-Maximum number of login attempts has been reached.
+Code?
+False
+Code?
+False
+Code?
+False!

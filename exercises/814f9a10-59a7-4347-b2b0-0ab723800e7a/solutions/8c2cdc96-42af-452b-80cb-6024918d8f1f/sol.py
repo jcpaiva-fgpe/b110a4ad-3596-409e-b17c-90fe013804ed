@@ -5,6 +5,6 @@ def avg(*arg):
             s += x
         return s/len(arg)
     
-    return "Call the function with at least one arg."
+    return "num args = 0 ..."
 
 print(avg(*range(1, 100, 2)))

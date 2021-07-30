@@ -1,0 +1,1 @@
+{"id":"a9c67b55-7491-405d-883c-0911ec0de5e6","name":"RULE 4","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["c921ce26-58df-49ce-844f-469e56137d7a"]}],"criteria":{"conditions":[],"junctors":[]},"actions":[{"type":"UPDATE","parameters":["CHALLENGE ","${V0} ","STATE","OPENED"]}]}

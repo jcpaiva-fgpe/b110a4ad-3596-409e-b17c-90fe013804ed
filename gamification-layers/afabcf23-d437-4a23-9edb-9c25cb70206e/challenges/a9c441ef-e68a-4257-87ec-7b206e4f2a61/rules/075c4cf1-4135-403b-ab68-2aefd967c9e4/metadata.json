@@ -1,0 +1,1 @@
+{"id":"075c4cf1-4135-403b-ab68-2aefd967c9e4","name":"RULE 5","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["a9c441ef-e68a-4257-87ec-7b206e4f2a61"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE ${V0} state OPENED"]}]}

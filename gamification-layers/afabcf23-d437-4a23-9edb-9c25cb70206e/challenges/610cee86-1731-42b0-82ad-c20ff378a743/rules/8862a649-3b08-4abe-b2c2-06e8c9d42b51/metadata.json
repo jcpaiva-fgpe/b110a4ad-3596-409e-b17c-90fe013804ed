@@ -1,0 +1,1 @@
+{"id":"8862a649-3b08-4abe-b2c2-06e8c9d42b51","name":"Rule 9","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["610cee86-1731-42b0-82ad-c20ff378a743"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","2481e7d6-8b24-4fbf-97ba-7a63590a0dee","state","OPENED"]}]}

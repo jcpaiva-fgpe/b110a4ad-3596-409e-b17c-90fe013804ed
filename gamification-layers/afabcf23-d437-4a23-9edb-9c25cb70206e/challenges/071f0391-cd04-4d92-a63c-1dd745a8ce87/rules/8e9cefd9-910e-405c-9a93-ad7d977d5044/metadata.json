@@ -1,0 +1,1 @@
+{"id":"8e9cefd9-910e-405c-9a93-ad7d977d5044","name":"Rule 10","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["071f0391-cd04-4d92-a63c-1dd745a8ce87"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","2481e7d6-8b24-4fbf-97ba-7a63590a0dee","state","OPENED"]}]}

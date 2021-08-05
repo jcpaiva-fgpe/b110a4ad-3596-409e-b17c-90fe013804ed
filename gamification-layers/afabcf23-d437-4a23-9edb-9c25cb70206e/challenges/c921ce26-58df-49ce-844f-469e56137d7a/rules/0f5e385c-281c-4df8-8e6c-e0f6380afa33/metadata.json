@@ -1,1 +1,1 @@
-{"id":"0f5e385c-281c-4df8-8e6c-e0f6380afa33","name":"Rule 3","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":[null]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE ${V0} state OPENED"]}]}
+{"id":"0f5e385c-281c-4df8-8e6c-e0f6380afa33","name":"Rule 3","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":[null]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","${V0}","state","OPENED"]}]}

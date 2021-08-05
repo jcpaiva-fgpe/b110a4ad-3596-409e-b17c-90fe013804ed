@@ -1,0 +1,1 @@
+{"id":"daf7ad69-b1af-49cd-a687-7638715fbb4d","name":"Rule 7","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["2481e7d6-8b24-4fbf-97ba-7a63590a0dee"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","2481e7d6-8b24-4fbf-97ba-7a63590a0dee","state","OPENED"]}]}

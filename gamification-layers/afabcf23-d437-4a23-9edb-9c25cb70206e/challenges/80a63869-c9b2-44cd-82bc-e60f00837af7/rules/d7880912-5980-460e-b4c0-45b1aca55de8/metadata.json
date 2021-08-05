@@ -1,0 +1,1 @@
+{"id":"d7880912-5980-460e-b4c0-45b1aca55de8","name":"Rule 12","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["80a63869-c9b2-44cd-82bc-e60f00837af7"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","50d3dd89-f885-439e-be51-19d0741ce3ed","state","OPENED"]}]}

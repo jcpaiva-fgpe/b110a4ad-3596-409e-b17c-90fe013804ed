@@ -1,0 +1,1 @@
+{"id":"8e934f5c-106f-4daa-b6c9-73d09113bade","name":"Rule 8","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["fb5d00c3-9c48-44c7-8152-6dd551a56cda"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","2481e7d6-8b24-4fbf-97ba-7a63590a0dee","state","OPENED"]}]}

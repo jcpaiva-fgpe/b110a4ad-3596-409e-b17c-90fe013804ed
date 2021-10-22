@@ -1,1 +1,1 @@
-print(str(1) + ". Jan!")
+print(str(1) + ". January!")

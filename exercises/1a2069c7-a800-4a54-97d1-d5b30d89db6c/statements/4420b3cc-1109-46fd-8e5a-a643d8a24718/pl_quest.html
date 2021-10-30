@@ -1,4 +1,4 @@
 <p> Jakkolwiek wiemy już, że Python udostępnia funkcję sorted i metodę sort, rozważymy teraz sytuację, w której sami implementujemy funkcję sortującą. Oprzemy się na algorytmie sortowania szybkiego (jest to nazwa własna, nie cecha, jednak algorytm ten zwykle jest szybki).</p>
 <p><br> Na początku wybierzmy sobie pewną wartość progową m i podzielmy listę na trzy części l, c i r, zawierające elementy: mniejsze, równe lub większe w stosunku do wartości progowej m. Tę samą procedurę powtórzmy dla części l i r (w części c wszystkie wartości są bowiem identyczne), a następnie dla mniejszych fragmentów części l i r uzyskanych z ich podziału, itd. Proces kontynuujemy tak długo, aż otrzymamy części l i r zawierające po jednym elemencie, których nie będzie można już podzielić dalej. 
 Kiedy nie będzie więcej części do posortowania, cała lista jest posortowana.</p>
-<p> Wyświetl wszystkie elementy z listy, tak jak zostało to przedstawione w szkielecie poniżej. </p>
+<p> Wyświetl wszystkie elementy z listy, w sposób jak zostało to przedstawione w szkielecie poniżej. </p>

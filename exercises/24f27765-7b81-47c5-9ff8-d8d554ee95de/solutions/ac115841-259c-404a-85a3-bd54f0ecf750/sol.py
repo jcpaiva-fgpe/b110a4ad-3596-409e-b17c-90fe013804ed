@@ -1,1 +1,1 @@
-print('Copyright symbol', chr(64))
+print('Copyright symbol', chr(169))

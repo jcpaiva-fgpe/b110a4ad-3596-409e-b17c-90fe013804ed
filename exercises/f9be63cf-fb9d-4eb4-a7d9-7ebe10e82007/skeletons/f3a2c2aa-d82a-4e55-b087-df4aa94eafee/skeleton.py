@@ -6,4 +6,4 @@ commuter = input()
 
 costs = 0 # overwrite 
 
-print('The annual costs of revenue', costs, u'zł.')
+print('The annual costs of revenue is', costs, u'zł.')

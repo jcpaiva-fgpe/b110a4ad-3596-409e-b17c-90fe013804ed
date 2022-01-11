@@ -12,7 +12,7 @@ class Trousers(Clothes):
         return u.color == 'white'
 
 u = Clothes('wool', 'gray')
-k = Jacket('leather ', 'black')
+k = Jacket('leather', 'black')
 s = Trousers('jeans', 'blue')
 
 print(u.description())
